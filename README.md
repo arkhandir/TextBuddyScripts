@@ -1,2 +1,3 @@
 # TextBuddyScripts
-This repository is for my custom scripts for TextBuddy, a Mac app by Tyler Hall.
+This repository is for my scripts for [TextBuddy](https://textbuddy.app/), a highly recommended Mac app by Tyler Hall.
+
